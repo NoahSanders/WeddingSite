@@ -3,6 +3,10 @@
     padding-right: 4em;
 }
 
+nav {
+    background-color: #E9D2C0;
+}
+
 @media(max-width: 768px) {
     nav li {
         text-align: center;
